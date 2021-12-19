@@ -35,7 +35,7 @@ if __name__ == '__main__':
         packages=find_packages(),
         install_requires=[
             'spacy>=2.0.0',
-            'cyhunspell==0.5.0',
+            'cyhunspell==2.0.2',
         ],
         zip_safe=False,
     )

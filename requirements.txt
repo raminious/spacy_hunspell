@@ -1,2 +1,2 @@
-cyhunspell==0.5.0
+cyhunspell==2.0.2
 spacy>=2.0.0
